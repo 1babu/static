@@ -1,0 +1,2 @@
+# static
+Jenkins pipeline repo
